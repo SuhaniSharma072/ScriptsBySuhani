@@ -6,3 +6,5 @@ https://www.carousell.sg/p/sunset-watercolor-calligraphy-card-256835792/
 https://thepostmansknock.com/how-to-combine-calligraphy-and-watercolors/
 https://www.vialdesigns.com/easy-diy-christmas-card/
 https://www.calligraphy.co.uk/blog/june-artist-of-the-month-susana-restrepo
+
+[![Athena Award Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Faward.athena.hackclub.com%2Fapi%2Fbadge)](https://award.athena.hackclub.com?utm_source=readme)
